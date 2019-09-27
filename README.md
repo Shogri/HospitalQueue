@@ -1,4 +1,5 @@
-# OEC-APP
+# HOSPITALQUEUE
+Submission to the provincial Ontario Engineering Competition 2019
 This Application acts as a hospital queue optimization platform
 Included in this app is the kiosk style front end for patients, a queueing system in python, and will also include a UI for the nurses
 
